@@ -1,0 +1,14 @@
+{
+  "itemName" : "RockySand",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "bdsand2.png",
+  "description" : "A Rocky sand.",
+  "shortdescription" : "Rocky Sand",
+  "glitchDescription" : "Rocky sand, that wouldn't get stuck in my gear.",
+  "floranDescription" : "R-rocky S-sand, could be used for N-nest.",
+  "novakidDescription" : "Well yee' haw', bout time I rangle a rock.",
+
+  "materialId" : 604
+}

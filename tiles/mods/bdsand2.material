@@ -1,0 +1,26 @@
+{
+  "materialId" : 604,
+  "materialName" : "Rocky Sand",
+  "particleColor" : [215, 202, 155, 255],
+  "itemDrop" : "RockySand",
+  "description" : "A Rocky sand.",
+  "shortdescription" : "Rocky Sand",
+  "glitchDescription" : "Rocky sand, that wouldn't get stuck in my gear.",
+  "floranDescription" : "R-rocky S-sand, could be used for N-nest.",
+  "novakidDescription" : "Well yee' haw', bout time I rangle a rock.",
+  "footstepSound" : "/sfx/blocks/footstep_sand.ogg",
+  "falling" : true,
+  "cascading" : true,
+  "health" : 4,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "bdsand2.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 430
+  }
+}

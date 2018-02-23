@@ -10,6 +10,11 @@
       "path": "/subBlocks/-",
       "value": "Stony Sand"
     },
+    {
+      "op": "add",
+      "path": "/subBlocks/-",
+      "value": "Rocky Sand"
+    },
   {
     "op": "add",
     "path": "/surfacePlaceables/grassMod/-",
