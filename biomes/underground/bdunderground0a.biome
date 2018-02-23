@@ -1,12 +1,12 @@
 {
-  "name" : "underground0b",
-  "friendlyName" : "Underground0b",
+  "name" : "bdunderground0a",
+  "friendlyName" : "bdunderground0a",
 
   "spawnProfile" : {
     "groups" : [
       {
         "select" : 2,
-        "pool" : [ 
+        "pool" : [
           [ 1.0, "paratail" ],
           [ 1.0, "snaggler" ],
           [ 1.0, "tintic" ],

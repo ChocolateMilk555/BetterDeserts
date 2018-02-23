@@ -5,8 +5,8 @@
     "value": 1.2
   },
   {
-    "op": "replace",
-    "path": "/surfacePlaceables/grassMod/0",
+    "op": "add",
+    "path": "/surfacePlaceables/grassMod/1",
     "value": "bdgrass"
   }
 ]
