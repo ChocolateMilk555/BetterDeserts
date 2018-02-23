@@ -1,8 +1,0 @@
-{
-  "name" : "bdgrass",
-  "description" : "Desert like grass.",
-  "shortdescription" : "Desert Grass.",
-  "floranDescription" : "Nice grass.",
-  "glitchDescription" : "Statement. Grass.",
-  "images" : [ "bd1.png", "bd2.png", "bd3.png", "bd4.png" ]
-}
