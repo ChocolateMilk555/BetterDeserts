@@ -1,0 +1,8 @@
+{
+  "name" : "grass",
+  "description" : "Desert like grass. Simply grass.",
+  "shortdescription" : "Grass.",
+  "floranDescription" : "Nice grass.",
+  "glitchDescription" : "Statement. Grass.",
+  "images" : [ "bd1.png", "bd2.png", "bd3.png", "bd4.png" ]
+}

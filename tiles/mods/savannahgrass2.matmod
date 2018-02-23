@@ -1,0 +1,15 @@
+{
+  "modId" : 223,
+  "modName" : "savannahgrass2",
+  "description" : "Crunchy thick grass.",
+  "footstepSound" : "/sfx/blocks/footstep_tallgrass.ogg",
+  "health" : 0,
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "savannahgrass2.png",
+    "variants" : 5,
+    "multiColored" : false,
+    "zLevel" : 0
+  }
+}

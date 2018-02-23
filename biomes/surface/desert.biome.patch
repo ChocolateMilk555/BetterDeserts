@@ -1,12 +1,28 @@
 [
   {
     "op": "add",
-    "path": "/surfacePlaceables/grassModDesnity",
-    "value": 1.2
+    "path": "/surfacePlaceables/grassMod/-",
+    "value": "savannahgrass2"
   },
   {
     "op": "add",
-    "path": "/surfacePlaceables/grassMod/1",
-    "value": "bdgrass"
+    "path": "/surfacePlaceables/items/1",
+    "value": {
+      "mode": "floor",
+      "priority": 3,
+      "variants": 1,
+      "period": 5,
+      "distribution": "/biomes/distributions.config:scatteredSmall",
+      "type": "grass",
+      "grasses": [
+        "bdgrass",
+        "bdgrass",
+        "bdgrass",
+        "bdgrass",
+        "bdgrass",
+        "bdgrass",
+        "bdgrass"
+      ]
+    }
   }
 ]
