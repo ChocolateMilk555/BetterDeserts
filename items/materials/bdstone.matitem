@@ -1,0 +1,14 @@
+{
+  "itemName" : "StonySand",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "bdstone.png",
+  "description" : "Stones made from sand settling.",
+  "shortdescription" : "Stony Sand Block",
+  "glitchdescription" : "Confused. Why sand stone instead of glass?",
+  "florandescription" : "Ssmooth looking sand.",
+  "novakiddescription" : "Jeeperz' this sand is mighty.",
+
+  "materialId" : 602
+}

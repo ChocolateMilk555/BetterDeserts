@@ -1,0 +1,24 @@
+{
+  "materialId" : 602,
+  "materialName" : "Stony Sand",
+  "particleColor" : [219, 200, 155, 255],
+  "itemDrop" : "StonySand",
+  "description" : "Stones made from sand settling.",
+  "shortdescription" : "Stony Sand Block",
+  "glitchDescription" : "Confused. Why sand stone instead of glass?",
+  "floranDescription" : "Ssmooth looking sand.",
+  "novakidDescription" : "Jeeperz' this sand is mighty.",
+  "footstepSound" : "/sfx/blocks/footstep_stone.ogg",
+  "health" : 23,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "bdstone.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "multiColored" : false,
+    "occludesBelow" : false,
+    "zLevel" : 1660
+  }
+}
