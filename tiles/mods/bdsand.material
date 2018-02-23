@@ -1,0 +1,26 @@
+{
+  "materialId" : 603,
+  "materialName" : "Rough Sand",
+  "particleColor" : [217, 200, 155, 255],
+  "itemDrop" : "RoughSand",
+  "description" : "A rougher sand.",
+  "shortdescription" : "Rough Sand",
+  "glitchDescription" : "Much better then regular sand, not stuck.",
+  "floranDescription" : "Rrough Ssand, not loose at all.",
+  "novakidDescription" : "I've seen rougher bulls in my day'.",
+  "footstepSound" : "/sfx/blocks/footstep_sand.ogg",
+  "falling" : true,
+  "cascading" : true,
+  "health" : 5,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "bdsand.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 430
+  }
+}

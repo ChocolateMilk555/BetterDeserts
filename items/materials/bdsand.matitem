@@ -1,0 +1,14 @@
+{
+  "itemName" : "RoughSand",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "bdsand.png",
+  "description" : "A rougher sand.",
+  "shortdescription" : "Rough Sand",
+  "glitchDescription" : "Much better then regular sand, not stuck.",
+  "floranDescription" : "Rrough Ssand, not loose at all.",
+  "novakidDescription" : "I've seen rougher bulls in my day'.",
+
+  "materialId" : 603
+}

@@ -1,4 +1,15 @@
 [
+
+  {
+      "op": "add",
+      "path": "/subBlocks/-",
+      "value": "Rough Sand"
+    },
+    {
+      "op": "add",
+      "path": "/subBlocks/-",
+      "value": "Stony Sand"
+    },
   {
     "op": "add",
     "path": "/surfacePlaceables/grassMod/-",
