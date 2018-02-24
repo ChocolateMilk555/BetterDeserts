@@ -1,8 +1,8 @@
 {
   "materialId" : 602,
-  "materialName" : "Stony Sand",
+  "materialName" : "Cobble Sand",
   "particleColor" : [219, 200, 155, 255],
-  "itemDrop" : "StonySand",
+  "itemDrop" : "CobbleSand",
   "description" : "Stones made from sand settling.",
   "shortdescription" : "Stony Sand Block",
   "glitchDescription" : "Confused. Why sand stone instead of glass?",
