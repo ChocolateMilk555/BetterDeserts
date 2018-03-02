@@ -1,6 +1,6 @@
 {
   "materialId" : 602,
-  "materialName" : "Cobble Sand",
+  "materialName" : "CobbleSand",
   "particleColor" : [219, 200, 155, 255],
   "itemDrop" : "CobbleSand",
   "description" : "Stones made from sand settling.",
