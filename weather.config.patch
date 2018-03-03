@@ -1,0 +1,15 @@
+[
+  {
+    "op": "replace",
+    "path": "/desert/0/0",
+    "value": 0.48
+  },
+  {
+    "op": "add",
+    "path": "/desert/-",
+    "value": [
+      0.5,
+      "glassstorm"
+    ]
+  }
+]
