@@ -1,0 +1,15 @@
+[
+
+{
+    "op": "add",
+    "path": "/displayWeathers/-",
+    "value": {
+      "displayName": "Glass Storm",
+      "icon": "/interface/cockpit/weather/glassstorm.png"
+      }
+
+  }
+
+
+
+]
